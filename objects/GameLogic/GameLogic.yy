@@ -1,10 +1,19 @@
 {
-    "id": "f68783e9-1d58-424e-a06c-fa70c9e8b597",
+    "id": "875e9294-b27e-436d-8e42-4f45831df63f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ArcObject",
+    "name": "GameLogic",
     "eventList": [
-        
+        {
+            "id": "8915d4d6-26c5-4997-acf9-49bc04c3ada2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "875e9294-b27e-436d-8e42-4f45831df63f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
