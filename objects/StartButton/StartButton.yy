@@ -1,18 +1,18 @@
 {
-    "id": "80eaf075-bdb3-4d3f-acc0-a884cdc8807e",
+    "id": "b92cd3e9-834d-49f5-b1d4-b9a96457ff96",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "GoalObject",
+    "name": "StartButton",
     "eventList": [
         {
-            "id": "21ce1dfa-3146-4cba-89eb-1cc7234e41e7",
+            "id": "7ffd37e6-d044-41c9-8ae9-0ba8e86328cf",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "59eabe61-ba20-4af4-bb4e-9b7b72b78a13",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "80eaf075-bdb3-4d3f-acc0-a884cdc8807e"
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "b92cd3e9-834d-49f5-b1d4-b9a96457ff96"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "4fe95a28-0833-4171-9ce1-e3c6e21dc679",
+    "spriteId": "bdc43e4a-de06-4806-8be5-9d536a78d3b3",
     "visible": true
 }

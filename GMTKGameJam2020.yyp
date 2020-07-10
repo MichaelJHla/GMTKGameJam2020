@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "13cff837-add2-426f-b9a0-f09845b41689",
+            "Value": {
+                "id": "85403cd2-520f-4c3d-b4d9-4dbeb5d31fc2",
+                "resourcePath": "rooms\\IntroScreen\\IntroScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1afddfd9-dddb-4a5c-87ad-4025d276094f",
             "Value": {
                 "id": "ce39512e-446a-4c6d-964f-7d5737448f80",
@@ -146,7 +154,7 @@
             "Key": "721266f8-a693-4700-8f94-20eb07931f52",
             "Value": {
                 "id": "0e779989-d4cf-4af9-affb-59eaad929e87",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\LevelOne\\LevelOne.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -196,6 +204,22 @@
                 "id": "cfb7c656-181f-449b-9b92-c600f29cdf17",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b92cd3e9-834d-49f5-b1d4-b9a96457ff96",
+            "Value": {
+                "id": "952a159c-2c7b-4271-9a6c-a8c8c21aca06",
+                "resourcePath": "objects\\StartButton\\StartButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bdc43e4a-de06-4806-8be5-9d536a78d3b3",
+            "Value": {
+                "id": "1456e14b-5360-4e2c-94d2-76e18b0413b8",
+                "resourcePath": "sprites\\StartButtonSprite\\StartButtonSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
