@@ -5,16 +5,6 @@
     "name": "GUILogic",
     "eventList": [
         {
-            "id": "4e0b2e32-a582-4f00-8310-1037ab4baf33",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "ae6e46e5-98b0-45d0-8175-c1ffdb5631db"
-        },
-        {
             "id": "4a98a89e-7ac3-49d8-bd9f-e34043f08000",
             "modelName": "GMEvent",
             "mvc": "1.0",

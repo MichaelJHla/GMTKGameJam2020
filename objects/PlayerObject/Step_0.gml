@@ -1,4 +1,4 @@
 if (!place_meeting(x, y, FloorObject)){
-	GUILogic.gameOver = true;
+	GameLogic.gameOver = true;
 	instance_destroy();
 }
