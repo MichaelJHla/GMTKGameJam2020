@@ -2,5 +2,3 @@
 ready = true;
 
 teleportRange = 1000;
-
-alpha = 0;

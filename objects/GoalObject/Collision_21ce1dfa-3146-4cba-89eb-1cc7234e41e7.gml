@@ -1,2 +1,2 @@
-//If the level is finished, go to the intro screen
+//If the level is finished, change the level finished status to true
 GameLogic.levelFinished = true;

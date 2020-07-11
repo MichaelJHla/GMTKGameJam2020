@@ -247,10 +247,26 @@
             }
         },
         {
+            "Key": "cd7c27f9-cabe-4b03-ae93-e71916ceedc6",
+            "Value": {
+                "id": "1d54d160-730a-4ff3-99d6-2cd5aaf62641",
+                "resourcePath": "views\\cd7c27f9-cabe-4b03-ae93-e71916ceedc6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d0b5e4ad-ee71-40f6-bae8-4a81e79965f3",
             "Value": {
                 "id": "e69b9b0f-48b4-471e-a94b-e61c1e45efaa",
                 "resourcePath": "views\\d0b5e4ad-ee71-40f6-bae8-4a81e79965f3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d614fe2b-8cf9-4fef-a5ed-fe6af1551252",
+            "Value": {
+                "id": "f9a12783-1a5c-4ab3-8c6c-4b380686ecf8",
+                "resourcePath": "views\\d614fe2b-8cf9-4fef-a5ed-fe6af1551252.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "eec61fab-4261-4458-b420-d504b5b5e500",
+            "Value": {
+                "id": "c89d7df9-9085-4a55-b729-561f837947ff",
+                "resourcePath": "views\\eec61fab-4261-4458-b420-d504b5b5e500.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "122fdac9-accf-40a1-8ada-9efad30c706b",
@@ -291,6 +315,14 @@
             "Value": {
                 "id": "c4b49ee3-5d9a-4046-87d5-3710e6828c87",
                 "resourcePath": "views\\f7ead933-bb38-4994-835d-24c0d5b608da.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fbc033fb-0352-4f63-985b-74e019e73aaa",
+            "Value": {
+                "id": "3226bf46-035f-481d-9c5c-9b308635ab38",
+                "resourcePath": "views\\fbc033fb-0352-4f63-985b-74e019e73aaa.yy",
                 "resourceType": "GMFolder"
             }
         },

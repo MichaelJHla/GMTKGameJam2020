@@ -1,9 +1,13 @@
 //If the game is stopped, then make the screen gradually darker
+//The alpha value is slowly increased to create a darker screen to display GUI elements easier
+maxAlpha = 0.7;
+darkenRate = 0.02;
+
 if (GameLogic.stopGame){
-	if (alpha < 0.6){
-		alpha += 0.01;
+	if (alpha < maxAlpha){
+		alpha += darkenRate;
 	} else {
-		alpha = 0.6;
+		alpha = maxAlpha;
 	}
 } else {
 	alpha = 0;

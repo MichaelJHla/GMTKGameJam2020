@@ -1,4 +1,4 @@
-if (levelFinished || gameOver || paused){ //If any of these are true, begin a stop the game status
+if (levelFinished || gameOver || paused){ //If any of these are true, change the game status to stopped
 	stopGame = true;
 } else {
 	stopGame = false;
