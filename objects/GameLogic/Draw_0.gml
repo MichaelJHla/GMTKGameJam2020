@@ -6,7 +6,7 @@ circY = mouse_y;
 if (instance_exists(PlayerObject)){
 	//Changes the color of the teleport circle if the player is aiming within range or not
 	//Because of the (-) operator, the small circle must be completely inside the larger circle
-	if (point_distance(PlayerObject.x, PlayerObject.y, mouse_x, mouse_y) <= PlayerObject.teleportRange - teleportCircleRadius){
+	if (point_distance(PlayerObject.x, PlayerObject.y, mouse_x, mouse_y) <= PlayerObject.teleportRange - teleportCircleRadius && PlayerObject.ready){
 		draw_set_color(c_blue); //Blue circle if the character can move
 	} else {
 		draw_set_color(c_red); //Red if the character is unable to move

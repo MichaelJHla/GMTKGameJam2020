@@ -3,3 +3,12 @@ if (!place_meeting(x, y, FloorObject)){//Checks if the player is currently on a 
 	GameLogic.gameOver = true;
 	instance_destroy();
 }
+
+//Reduces the cooldown to 0, and avoids overflow
+if (tpCooldown > 0){
+	tpCooldown--;
+	ready = false;
+} else {
+	tpCooldown = 0;
+	ready = true;
+}
