@@ -10,4 +10,10 @@ if (instance_exists(PlayerObject) && !stopGame){ //Checks to make sure the playe
 		PlayerObject.x = mouse_x + (r * cos(a));
 		PlayerObject.y = mouse_y + (r * sin(a));
 	}
+} else if (levelFinished){ //If the level is finished, the player will be taken to either the next level or the menu
+	if (room_next(room) != -1){
+		room_goto_next();
+	} else {
+		room_goto(IntroScreen);
+	}
 }

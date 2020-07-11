@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "7201fa93-8951-4574-bccf-43a601b996d8",
+            "Value": {
+                "id": "51546698-2d29-41e4-883d-cf2cc624286c",
+                "resourcePath": "fonts\\GUIFont\\GUIFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "721266f8-a693-4700-8f94-20eb07931f52",
             "Value": {
                 "id": "0e779989-d4cf-4af9-affb-59eaad929e87",
