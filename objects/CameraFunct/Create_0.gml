@@ -2,6 +2,10 @@ camera = camera_create(); //Create a new camera
 cameraWidth = 3200;
 cameraHeight = 1792;
 
+//Sets the initial position of the camera to the player location
+x = PlayerObject.x;
+y = PlayerObject.y;
+
 //Choose which viewport to use
 view_camera[0] = camera;
 
