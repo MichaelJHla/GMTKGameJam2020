@@ -17,3 +17,12 @@ yTo = y;
 //This is the denominator value for the transition of the camera.
 //The lower the number the faster the transition speed
 cameraTransitionSpeed = 10;
+
+//The speed the camera zooms in and out
+cameraZoomSpeed = 20;
+
+//The current zoom level
+curZoomLevel = 0;
+
+//The max zoom level so that the player cannot zoom in our out too much
+maxZoomLevel = 8;
