@@ -1,4 +1,4 @@
-if (!GameLogic.levelComplete){ //Only move the camera if the level is not finished
+if (!GUILogic.stopGame && instance_exists(PlayerObject)){ //Only move the camera if the game is still going
 	//Used for smooth camera movement when the camera follow is changed
 	//The lower the denominator, the faster the camera
 	x += (xTo - x)/cameraTransitionSpeed;

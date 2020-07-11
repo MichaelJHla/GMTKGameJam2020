@@ -1,4 +1,6 @@
 //Indicates if the cooldown is finished
 ready = true;
 
-teleportRange = 800;
+teleportRange = 1000;
+
+alpha = 0;
