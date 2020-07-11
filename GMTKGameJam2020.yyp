@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "28856acd-ef50-45f2-a185-06b9ec36e2d6",
+            "Value": {
+                "id": "7173da4f-344e-4b8b-bcf9-683cb7aab87c",
+                "resourcePath": "objects\\MusicLogic\\MusicLogic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "36371463-814f-4f1d-bec9-fbf37bef6c7f",
             "Value": {
                 "id": "19a990d4-f884-4696-9d5d-0ad26ccd31ee",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "6899ae40-3002-430a-a4f7-34ac3abb55a6",
+            "Value": {
+                "id": "90f4518f-1ba0-4b41-9508-d2747b0addc4",
+                "resourcePath": "sounds\\BackgroundMusic\\BackgroundMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "69739626-9153-4d0e-b9c5-e02928a44bc9",
             "Value": {
                 "id": "27e8a831-9e42-4b9d-8a36-4c79109664d8",
@@ -228,6 +244,14 @@
                 "id": "f4f7c890-02e6-4182-93ca-ed07918251c4",
                 "resourcePath": "objects\\GUILogic\\GUILogic.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b1ff5131-47fe-4bed-b31e-a3bdadd1d8f5",
+            "Value": {
+                "id": "282c3cf2-b84e-4461-83de-a817ad40267a",
+                "resourcePath": "sounds\\LandingSound\\LandingSound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
