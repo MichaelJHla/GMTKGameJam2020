@@ -12,3 +12,10 @@ if (tpCooldown > 0){
 	tpCooldown = 0;
 	ready = true;
 }
+
+//Points the player in the correct direction
+if (mouse_x < x){
+	image_xscale = -1;
+} else {
+	image_xscale = 1;
+}
