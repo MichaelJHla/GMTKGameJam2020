@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "2b1d50ab-33f7-4256-8eb0-c1eec62670d8",
+            "Value": {
+                "id": "209f81b8-f40c-4257-8c25-425c87cdfb4c",
+                "resourcePath": "rooms\\LevelTwo\\LevelTwo.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3ae56784-31e8-40b6-aebf-798cd4c61721",
             "Value": {
                 "id": "f93f9788-2c1d-45f6-8d66-f7d50bc92b51",
@@ -98,7 +106,7 @@
             "Key": "530e3feb-d7ae-4b25-b2aa-d74333a498c7",
             "Value": {
                 "id": "30fd72ed-3ddc-49e6-845e-c7f71e275ad7",
-                "resourcePath": "sprites\\FloorSprite\\FloorSprite.yy",
+                "resourcePath": "sprites\\LargeFloorSprite\\LargeFloorSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -243,6 +251,14 @@
             "Value": {
                 "id": "6272c81c-fcc0-4b36-af95-9561349afd80",
                 "resourcePath": "objects\\FloorObject\\FloorObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d91ff4d2-8b81-42c2-bbf6-01fa15878c8f",
+            "Value": {
+                "id": "76e9a1ca-bd4b-4eb4-8c3b-3a7597461f8d",
+                "resourcePath": "objects\\CameraFunct\\CameraFunct.yy",
                 "resourceType": "GMObject"
             }
         },
