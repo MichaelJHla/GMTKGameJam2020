@@ -10,6 +10,6 @@ if (!GameLogic.stopGame && tpCooldown <= 0){ //Checks to make sure the player is
 		x = mouse_x + (r * cos(a));
 		y = mouse_y + (r * sin(a));
 		
-		tpCooldown = maxTPCooldown;
+		tpCooldown = maxTPCooldown; //Resets the cooldown if the player succesfully teleported
 	}
 }
