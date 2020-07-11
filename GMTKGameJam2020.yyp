@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "36371463-814f-4f1d-bec9-fbf37bef6c7f",
+            "Value": {
+                "id": "19a990d4-f884-4696-9d5d-0ad26ccd31ee",
+                "resourcePath": "objects\\GlobalStates\\GlobalStates.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ae56784-31e8-40b6-aebf-798cd4c61721",
             "Value": {
                 "id": "f93f9788-2c1d-45f6-8d66-f7d50bc92b51",
