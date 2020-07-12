@@ -5,7 +5,8 @@
     "name": "eac69ef8-ff52-4ee4-be91-2f96cd353109",
     "children": [
         "5347111a-9d38-48cd-9dc5-c02ca2743ef0",
-        "43713a23-f625-48b7-af5c-45312007e33e"
+        "43713a23-f625-48b7-af5c-45312007e33e",
+        "08abaab3-bc89-48e0-af6c-0ffc05e331e7"
     ],
     "filterType": "GMObject",
     "folderName": "Powerups",

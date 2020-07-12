@@ -1,2 +1,2 @@
 //If the start button is clicked, go to the next room
-room_goto(4);
+room_goto(5);

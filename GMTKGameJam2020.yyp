@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "08abaab3-bc89-48e0-af6c-0ffc05e331e7",
+            "Value": {
+                "id": "1b3c081b-bd06-4a61-975b-034a177aa859",
+                "resourcePath": "objects\\RingDecreaseObject\\RingDecreaseObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e82f663-6178-4783-b33c-80f5c3030c07",
             "Value": {
                 "id": "3cecd82a-6007-4f76-bec5-68ad744e2f37",
@@ -156,6 +164,14 @@
                 "id": "a8ff816a-454e-4ffd-a51b-bcf011881e41",
                 "resourcePath": "sprites\\GoalSpriteBot\\GoalSpriteBot.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "32fa7c09-8f79-4792-b379-f58a3389aacc",
+            "Value": {
+                "id": "4d50549f-3a5f-4613-9207-e7780d4e2194",
+                "resourcePath": "fonts\\GUISmallestFont\\GUISmallestFont.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "655d1d8d-5ccd-46ce-9244-084eaf1d641b",
+            "Value": {
+                "id": "02179859-8d2a-4a87-a777-311fc2473413",
+                "resourcePath": "sprites\\RingDecreaseSprite\\RingDecreaseSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6696fdfa-dfff-4f2d-9f90-b21405e38ffe",
             "Value": {
                 "id": "ab3a61ac-0da0-451a-bcd1-d99076297d9a",
@@ -436,6 +460,14 @@
                 "id": "bcc1dfc8-09ee-4a27-aa6e-998792cdab15",
                 "resourcePath": "sprites\\LargeFloorSpriteRight\\LargeFloorSpriteRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7d1a0cb6-80a1-4058-a1c7-14d62117657c",
+            "Value": {
+                "id": "fa3185cd-5f12-40ef-b301-c498cf4260aa",
+                "resourcePath": "rooms\\LevelFive\\LevelFive.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
