@@ -9,9 +9,16 @@ teleportRange = 1000;
 
 livesLeft = 3;
 
+//records the previous location so the player does not die instantly when they hit lava
 prevX = x;
 prevY = y;
 
+//The first teleport is recorded so that the target appears at the proper time
 firstTeleport = false;
+
+//These coordinates are used by the target
 attemptedX = x;
 attemptedY = y;
+
+//Tells whether the end of level audio cue has been played yet
+played = false;

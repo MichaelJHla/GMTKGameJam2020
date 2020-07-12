@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "748504e9-3278-4d2a-ab1c-d04305b3417a",
+            "Value": {
+                "id": "7c011e2c-be2c-4101-9411-19e6b57cde6e",
+                "resourcePath": "sounds\\WinnerSound\\WinnerSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "772c2f19-c761-4a29-a72b-9d9b1ac9671f",
             "Value": {
                 "id": "c707b4bf-8eb4-4174-b2af-f57dcd85a919",
