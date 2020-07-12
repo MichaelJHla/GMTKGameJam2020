@@ -1,14 +1,14 @@
 {
-    "id": "d7e8e829-2a6e-4d05-b3fe-1724157c7242",
+    "id": "110af67d-907e-4167-8535-6a287ff69f59",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "FloorObject",
+    "name": "LargeFloorObjectTopRight",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "d7e8e829-2a6e-4d05-b3fe-1724157c7242",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "6d637368-4f8c-487e-a6d2-5f97b6e6d2ff",
     "visible": true
 }

@@ -1,10 +1,19 @@
 {
-    "id": "d7e8e829-2a6e-4d05-b3fe-1724157c7242",
+    "id": "45cf4275-b6de-4c50-9b04-d65751f2bc87",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "FloorObject",
+    "name": "PlayerArm",
     "eventList": [
-        
+        {
+            "id": "04c9aea5-2c41-49f9-9469-40e6db35e2e7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "45cf4275-b6de-4c50-9b04-d65751f2bc87"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "2e66e2bd-2b3d-4aea-ba18-8867f4f5783c",
     "visible": true
 }
