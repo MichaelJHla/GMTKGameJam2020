@@ -7,8 +7,8 @@ if (!GameLogic.stopGame && tpCooldown <= 0){ //Checks to make sure the player is
 		r = GameLogic.teleportCircleRadius * sqrt(random(.8));
 	
 		//Move the player object to the random location
-		x = mouse_x + (r * cos(a));
-		y = mouse_y + (r * sin(a));
+		x = round(mouse_x + (r * cos(a)));
+		y = round(mouse_y + (r * sin(a)));
 		
 		tpCooldown = maxTPCooldown; //Resets the cooldown if the player succesfully teleported
 		
