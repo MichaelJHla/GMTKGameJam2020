@@ -1,4 +1,4 @@
-if (firstTeleport){
+if (firstTeleport && !GameLogic.levelFinished){
 	draw_sprite_ext(TargetSprite, image_index, attemptedX, attemptedY+24, 10, 5, image_angle, image_blend, image_alpha);
 }
 

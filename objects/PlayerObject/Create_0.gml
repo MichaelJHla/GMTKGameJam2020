@@ -22,3 +22,8 @@ attemptedY = y;
 
 //Tells whether the end of level audio cue has been played yet
 played = false;
+
+//Tells if the alarm has gone off
+levelEndAlarm = 90;
+
+window_mouse_set(window_get_width()/2, window_get_height()/2);
