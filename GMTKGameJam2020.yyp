@@ -383,14 +383,6 @@
             }
         },
         {
-            "Key": "7698e98e-dfb7-4766-80e9-fd109f626b29",
-            "Value": {
-                "id": "c1e973b1-506e-4df5-bb3b-6ea66733337b",
-                "resourcePath": "sounds\\BackgroundMusic\\BackgroundMusic.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "772c2f19-c761-4a29-a72b-9d9b1ac9671f",
             "Value": {
                 "id": "c707b4bf-8eb4-4174-b2af-f57dcd85a919",
@@ -668,6 +660,14 @@
                 "id": "4409cba1-c176-495f-a355-24655663a855",
                 "resourcePath": "objects\\GoalObjectMid\\GoalObjectMid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6f2cdac-1a4e-4753-961d-1412048dcf7c",
+            "Value": {
+                "id": "455b74f9-a2f6-46b4-9289-9e6a76df62b1",
+                "resourcePath": "sounds\\BackgroundMusic\\BackgroundMusic.yy",
+                "resourceType": "GMSound"
             }
         },
         {

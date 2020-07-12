@@ -21,10 +21,8 @@ if (!GameLogic.stopGame && tpCooldown <= 0){ //Checks to make sure the player is
 		
 		tpCooldown = maxTPCooldown; //Resets the cooldown if the player succesfully teleported
 		
-		if (place_meeting(x, y, FloorObject)){//Checks if the player is currently on a floor
-			//Play a sound if they land on the floor
-			audio_sound_pitch(LandingSound, random_range(0.8, 1.2));
-			audio_play_sound(LandingSound, 0, 0);
-		}
+		//Play a sound when they try and teleport
+		audio_sound_pitch(LandingSound, random_range(0.8, 1.2));
+		audio_play_sound(LandingSound, 0, 0);
 	}
 }
