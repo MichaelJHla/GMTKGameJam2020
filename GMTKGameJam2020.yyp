@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0e82f663-6178-4783-b33c-80f5c3030c07",
+            "Value": {
+                "id": "3cecd82a-6007-4f76-bec5-68ad744e2f37",
+                "resourcePath": "sprites\\MajorRingSizeUpgrade\\MajorRingSizeUpgrade.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "104a5d99-7ed9-47d3-a9ec-bcc374c165b9",
             "Value": {
                 "id": "b58ba888-03cf-4a62-b18a-4fc05a2d461d",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "43713a23-f625-48b7-af5c-45312007e33e",
+            "Value": {
+                "id": "65af9e8e-459a-42ef-b6df-b3191ca2ab95",
+                "resourcePath": "objects\\Powerup\\Powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "45cf4275-b6de-4c50-9b04-d65751f2bc87",
             "Value": {
                 "id": "382a5dfe-0f6e-4170-b48d-e45903f612c3",
@@ -260,6 +276,22 @@
                 "id": "30fd72ed-3ddc-49e6-845e-c7f71e275ad7",
                 "resourcePath": "sprites\\LargeFloorSpriteTop\\LargeFloorSpriteTop.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5347111a-9d38-48cd-9dc5-c02ca2743ef0",
+            "Value": {
+                "id": "bfd36f1c-f331-4d2e-965c-9018e4910453",
+                "resourcePath": "objects\\MinorRingUpgradeObject\\MinorRingUpgradeObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5455bcac-a9ab-45cc-8548-0efbdf0245b6",
+            "Value": {
+                "id": "9389fe10-9383-4ce4-b6b3-b02fe3f4a1e2",
+                "resourcePath": "sounds\\PowerupSound\\PowerupSound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -412,6 +444,14 @@
                 "id": "e8157598-d42e-4754-97c2-173bf9d62d0e",
                 "resourcePath": "views\\7f64f9c0-07d8-4eb7-b1f9-02c0b3f7936b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7f70a407-82c7-4e83-9fcc-0cb405310ddb",
+            "Value": {
+                "id": "23968784-e528-4726-ace4-7c47e086023b",
+                "resourcePath": "rooms\\LevelFour\\LevelFour.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -671,6 +711,14 @@
             }
         },
         {
+            "Key": "e6d08b68-5f41-41af-b97c-b61192065033",
+            "Value": {
+                "id": "f5d13a8d-bddc-4028-9d8e-258dba452f80",
+                "resourcePath": "sprites\\MinorRingSizeUpgrade\\MinorRingSizeUpgrade.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e6f2cdac-1a4e-4753-961d-1412048dcf7c",
             "Value": {
                 "id": "455b74f9-a2f6-46b4-9289-9e6a76df62b1",
@@ -684,6 +732,14 @@
                 "id": "a771e7b2-3bc8-472e-a3af-e5e49114bd03",
                 "resourcePath": "objects\\LargeFloorObjectBot\\LargeFloorObjectBot.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eac69ef8-ff52-4ee4-be91-2f96cd353109",
+            "Value": {
+                "id": "8f303dfe-57a9-4f4f-90bc-b2148c55b5a5",
+                "resourcePath": "views\\eac69ef8-ff52-4ee4-be91-2f96cd353109.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
