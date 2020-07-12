@@ -1,5 +1,5 @@
 {
-    "id": "6899ae40-3002-430a-a4f7-34ac3abb55a6",
+    "id": "7698e98e-dfb7-4766-80e9-fd109f626b29",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "BackgroundMusic",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.2
+    "volume": 0.5
 }

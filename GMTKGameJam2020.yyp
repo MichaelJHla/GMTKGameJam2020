@@ -255,11 +255,27 @@
             }
         },
         {
+            "Key": "56e02060-914e-4ecb-ad84-1acd4c4c6092",
+            "Value": {
+                "id": "00fb779b-9ec6-4d39-ad58-caa2e198a38a",
+                "resourcePath": "sprites\\SplashScreen\\SplashScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "578f68b3-044f-473c-8fd3-c2f04675f504",
             "Value": {
                 "id": "71aa1699-3875-4395-8aea-3b77721303bc",
                 "resourcePath": "sprites\\LargeFloorSpriteLeft\\LargeFloorSpriteLeft.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "58d7ad92-8479-4f8b-b87f-39def22557ec",
+            "Value": {
+                "id": "1fad11b4-7c55-41f0-b98f-48d5e463d8aa",
+                "resourcePath": "rooms\\LevelThree\\LevelThree.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -300,14 +316,6 @@
                 "id": "ab3a61ac-0da0-451a-bcd1-d99076297d9a",
                 "resourcePath": "sprites\\PlayerSprite\\PlayerSprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6899ae40-3002-430a-a4f7-34ac3abb55a6",
-            "Value": {
-                "id": "90f4518f-1ba0-4b41-9508-d2747b0addc4",
-                "resourcePath": "sounds\\BackgroundMusic\\BackgroundMusic.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -356,6 +364,14 @@
                 "id": "0e779989-d4cf-4af9-affb-59eaad929e87",
                 "resourcePath": "rooms\\LevelOne\\LevelOne.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7698e98e-dfb7-4766-80e9-fd109f626b29",
+            "Value": {
+                "id": "c1e973b1-506e-4df5-bb3b-6ea66733337b",
+                "resourcePath": "sounds\\BackgroundMusic\\BackgroundMusic.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -516,6 +532,14 @@
                 "id": "a1ba492a-e80b-4edb-b25a-c61a7b92420f",
                 "resourcePath": "fonts\\GUISmallFont\\GUISmallFont.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "c763ae83-40e9-41ca-ab29-50a8feccd4c4",
+            "Value": {
+                "id": "a281e2e9-0fa1-4cbf-b5b3-95c538113c7c",
+                "resourcePath": "rooms\\LevelTwo\\LevelTwo.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
