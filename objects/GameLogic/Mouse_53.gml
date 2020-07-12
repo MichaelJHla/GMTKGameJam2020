@@ -5,3 +5,7 @@ if (levelFinished){ //If the level is finished, the player will be taken to eith
 		room_goto(IntroScreen);
 	}
 }
+
+if (gameOver){//If the player dies and they click, the level will restart
+	room_restart();
+}

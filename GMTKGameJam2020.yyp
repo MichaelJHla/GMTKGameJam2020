@@ -346,7 +346,7 @@
             "Key": "7201fa93-8951-4574-bccf-43a601b996d8",
             "Value": {
                 "id": "51546698-2d29-41e4-883d-cf2cc624286c",
-                "resourcePath": "fonts\\GUIFont\\GUIFont.yy",
+                "resourcePath": "fonts\\GUILargeFont\\GUILargeFont.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -508,6 +508,14 @@
                 "id": "18eb6fc9-29d4-4296-9800-dc3bfe4762c6",
                 "resourcePath": "sprites\\GoalSpriteBL\\GoalSpriteBL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c26c9bba-2b49-4b15-bf9f-7133166fd98c",
+            "Value": {
+                "id": "a1ba492a-e80b-4edb-b25a-c61a7b92420f",
+                "resourcePath": "fonts\\GUISmallFont\\GUISmallFont.yy",
+                "resourceType": "GMFont"
             }
         },
         {
