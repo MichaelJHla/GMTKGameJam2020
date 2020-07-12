@@ -3,3 +3,4 @@ if (levelFinished || gameOver || paused){ //If any of these are true, change the
 } else {
 	stopGame = false;
 }
+
