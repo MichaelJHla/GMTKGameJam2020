@@ -1,3 +1,9 @@
+if (instance_exists(PlayerObject)){
+	for (i = 0; i < PlayerObject.livesLeft; i++){
+		draw_sprite_ext(LivesSprite, image_index, 20+i*20, window_get_height()-50, 4, 4, image_angle, image_blend, image_alpha);
+	}
+}
+
 if (GameLogic.stopGame){ //If a stop status is true, then do the following to dim the screen
 	draw_set_color(c_black);
 	draw_set_alpha(alpha);//This variable is gradually increased in the Step function

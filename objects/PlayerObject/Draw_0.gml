@@ -1,3 +1,8 @@
+if (firstTeleport){
+	draw_sprite_ext(TargetSprite, image_index, attemptedX, attemptedY+24, 10, 5, image_angle, image_blend, image_alpha);
+}
+
+
 draw_self();
 
 //This will draw a circle around the player that shows the range that the player can teleport within
